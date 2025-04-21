@@ -1,2 +1,6 @@
-# QA_Software_Engineering
-Automtive Software QA Projects
+Test automation strategy
+
+Used tools (CAN bus, WebSocket, Flask mock, ADB, SSH)
+
+Key functionality (keep-alive config, system reboot, config file injection)
+
