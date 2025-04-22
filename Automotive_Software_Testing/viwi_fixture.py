@@ -61,8 +61,8 @@ class ViwiFixture(enna.core.interfaces.testing.Stimulation):
         self.sys_sd_offers_queue = queue.Queue()
         self.ivi_sd_offer_list = []
         self.sys_sd_offer_list = []
-        self.ivi_ip: str='fd53:7cb8:383:3::130'
-        self.sys_ip: str='fd53:7cb8:383:e::108'
+        self.ivi_ip: str=''
+        self.sys_ip: str=''
         self.ivi_partition_name:str = "ivi"
         self.sys_partition_name:str = "sys"
         self.rsi_gateway_config:str = ""
